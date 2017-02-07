@@ -1,6 +1,8 @@
 Heading
 =======
 
+[gimmick:gist](5641564)
+
 SubHeading
 ----------
 
@@ -19,11 +21,18 @@ SubHeading
 | zebra stripes | are neat      |    $1 |
 
 
-# Your wiki name
+[gimmick:googlemaps](Madison Square Garden, NY)
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'false')](Eiffel Tower, Paris)
+
+[gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Colloseum, Rome, Italy)
+
+
+[gimmick:yuml]([User|+Forename+;Surname;+HashedPassword;-Salt|+Login();+Logout()])
+[gimmick:yuml (diag: 'usecase', scale: 150) ]( [Customer]-`Sign In´, [Customer]-`Buy Products´ )
+
+
+[gimmick:yuml (type: 'activity', style: 'plain') ]( `Make Coffee´->`want more coffee´ )
 
 # Brand name
 
@@ -42,3 +51,22 @@ SubHeading
 [Menu Item 2](item2.md)
 - - - -
 [Menu Item 3](item3.md)
+
+[gimmick: math]()
+Diameter \\( d \\) of a circle given area \\( A \\) can by obtained via \\(d=\sqrt{\frac{4A}{\pi}}\\)
+$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+[gimmick:Disqus](your_disqus_shortname)
+
+
+| #  | Sprint          | Points | Sum | Avg  | Note |
+| -  | --------        |------- | --- | ---- | ---- |
+| 1  | Sprint 1        | 6      | 6   | 6.0  | |
+| 2  | Sprint 2        | 6      | 12  | 6.0  | |
+| 3  | Sprint 3        | 15     | 27  | 9.0  | |
+| 4  | Sprint 4        | 9      | 36  | 9.0  | |
+| 5  | Sprint 5        | 6      | 42  | 8.4  | |
+| 6  | Sprint 6        | 9      | 51  | 8.5  | |
+
+[gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Line', width: '660px', height: '300px'})]()
+
+[gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Bar', width: '660px', height: '300px'})]()
