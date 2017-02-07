@@ -14,49 +14,23 @@ SubHeading
   Images are like hyperlinks, but with an exclamation mark in front of them:
   ![](http://placekitten.com/g/250/250)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 [gimmick:googlemaps](Madison Square Garden, NY)
 
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'false')](Eiffel Tower, Paris)
 
 [gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Colloseum, Rome, Italy)
 
-
-[gimmick:yuml]([User|+Forename+;Surname;+HashedPassword;-Salt|+Login();+Logout()])
 [gimmick:yuml (diag: 'usecase', scale: 150) ]( [Customer]-`Sign In´, [Customer]-`Buy Products´ )
-
 
 [gimmick:yuml (type: 'activity', style: 'plain') ]( `Make Coffee´->`want more coffee´ )
 
-# Brand name
-
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](subitem3.md)
-
-[Menu Item 2](item2.md)
-- - - -
-[Menu Item 3](item3.md)
 
 [gimmick: math]()
 Diameter \\( d \\) of a circle given area \\( A \\) can by obtained via \\(d=\sqrt{\frac{4A}{\pi}}\\)
 $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
-[gimmick:Disqus](your_disqus_shortname)
 
+This will show the video preview on your website:
+[](http://www.youtube.com/watch?v=RMINSD7MmT4)
 
 | #  | Sprint          | Points | Sum | Avg  | Note |
 | -  | --------        |------- | --- | ---- | ---- |
@@ -70,3 +44,5 @@ $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 [gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Line', width: '660px', height: '300px'})]()
 
 [gimmick:chart ({dataColumns: ['Avg'], labelColumn: "Sprint", chartType: 'Bar', width: '660px', height: '300px'})]()
+
+[gimmick:Disqus](your_disqus_shortname)
