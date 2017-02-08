@@ -3,7 +3,7 @@ TOG proj
 
 [fooooo](/myprojects/index.md)
 
-[](http://www.youtube.com/watch?v=RMINSD7MmT4)
+
 [gimmick:gist](5641564)
 
 [gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Colloseum, Rome, Italy)
