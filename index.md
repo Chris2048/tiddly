@@ -2,6 +2,8 @@ TOG proj
 ========
 
 [fooooo](/myprojects/index.md)
+[foooo2](myprojects/index.md)
+[foooo3](index.md)
 
 
 [gimmick:gist](5641564)
