@@ -1,3 +1,3 @@
 [submodule "myprojects"]
 	path = myprojects
-	url = git@github.com:Chris2048/myprojects.git
+	url = https://github.com/Chris2048/myprojects.git
