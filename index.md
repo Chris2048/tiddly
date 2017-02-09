@@ -1,13 +1,7 @@
 TOG proj
 ========
 
-
-Hello
-
-[fooooo](/myprojects/index_2.md)
-[foooo2](myprojects/index_2.md)
-[foooo3](index_2.md)
-
+[subsite](myprojects/index.md)
 
 [gimmick:gist](5641564)
 
