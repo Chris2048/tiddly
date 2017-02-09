@@ -1,7 +1,7 @@
 TOG proj
 ========
 
-[subsite](myprojects/index.md)
+[project site](myprojects/index.md)
 
 [gimmick:gist](5641564)
 
