@@ -1,7 +1,20 @@
-TOG project
-===========
+TOG proj
+========
 
-xxx
+
+Hello
+
+[fooooo](/myprojects/index_2.md)
+[foooo2](myprojects/index_2.md)
+[foooo3](index_2.md)
+
+
+[gimmick:gist](5641564)
+
+[gimmick:googlemaps(maptype: 'satellite', zoom: 17)](Colloseum, Rome, Italy)
+
+[gimmick:yuml (diag: 'usecase', scale: 150) ]( [Customer]-`Sign In´, [Customer]-`Buy Products´ )
+[gimmick:yuml (type: 'activity', style: 'plain') ]( `Make Coffee´->`want more coffee´ )
 
 [gimmick: math]()
 
